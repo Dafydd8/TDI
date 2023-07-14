@@ -1,0 +1,5 @@
+id,nombre,domicilio,telefono,email,web,tipo,calle,altura,direccion,Long,Lat
+592,HOSTAL EL CANDIL,LERMA 476,15-3604-3397,info@hostalelcandil.com,http://www.hosteltrail.com/hostels/hostalelcandil,Hostel,LERMA,476,LERMA 476,-58.431905,-34.594393
+591,OSTINATTO HOSTEL,CHILE 680,4362-9639,info@ostinatto.com.ar,http://www.ostinatto.com/,Hostel,CHILE,680,CHILE 680,-58.375687,-34.616217
+590,HOSTEL COLONIAL,TUCUMAN 509,4312-6417,info@hostelcolonia.com.ar,http://www.hostelcolonial.com.ar/es/home/,Hostel,TUCUMAN,509,TUCUMAN 509,-58.374120,-34.600939
+589,END OF THE WORLD,LA RIOJA 970,4957-8291,boedo@ewhostels.com,,Hostel,LA RIOJA,970,LA RIOJA 970,-58.407390,-34.621630
